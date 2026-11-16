@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=larabraham001&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=larabraham001&layout=compact&theme=tokyonight&hide_border=true)
+![Seguidores](https://img.shields.io/github/followers/larabraham001?label=Seguidores&style=flat&logo=github)
+![Último commit](https://img.shields.io/github/last-commit/larabraham001/visualizador-ordenamientos?label=%C3%9Altimo%20commit&style=flat&logo=github)
 
 </div>
 
