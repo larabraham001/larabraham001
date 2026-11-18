@@ -50,6 +50,8 @@
 
 ## 📫 Contacto
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Lara-0A66C2?style=flat)](https://www.linkedin.com/in/abraham-lara97)
 [![Email](https://img.shields.io/badge/Email-larabraham001%40icloud.com-EA4335?style=flat&logo=icloud&logoColor=white)](mailto:larabraham001@icloud.com)
 
