@@ -44,7 +44,7 @@
 <div align="center">
 
 ![Seguidores](https://img.shields.io/github/followers/larabraham001?label=Seguidores&style=flat&logo=github)
-![Último commit](https://img.shields.io/github/last-commit/larabraham001/visualizador-ordenamientos?label=%C3%9Altimo%20commit&style=flat&logo=github)
+![Último commit](https://img.shields.io/github/last-commit/larabraham001/ATmega8515-Proyecto-2º-Parcial?label=%C3%9Altimo%20commit&style=flat&logo=github)
 
 </div>
 
