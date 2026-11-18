@@ -28,8 +28,8 @@
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [📊 Visualizador de ordenamientos](https://github.com/larabraham001/visualizador-ordenamientos) | App de escritorio que anima algoritmos de ordenamiento paso a paso | C++17 · SFML 3 · CMake |
-| 🎮 Videojuego 2D *(proyecto de equipo, en desarrollo)* | Juego en C++ para la materia de Estructura de Datos II | C++ · SFML |
-
+| [🎮 Videojuego 2D](https://github.com/larabraham001/estacion-espacial-en-crisis) *(proyecto de equipo, en desarrollo)* | Juego en C++ para la materia de Estructura de Datos II | C++ · SFML |
+| [⚙️ Programas en ensamblador para ATmega8515](https://github.com/larabraham001/ATmega8515-Proyecto-2o-Parcial) | Prácticas de Arquitectura de Computadoras | Ensamblador AVR · ATmega8515 · Avra |
 ## 🔨 Lo que viene
 
 - [ ] Más algoritmos en el visualizador (Selection, Insertion, Quick, Merge)
