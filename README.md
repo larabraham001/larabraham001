@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Abraham 👋
+# Hola, soy Abraham 👋🏼
 
 **Estudiante de Ingeniería en Sistemas Computacionales · Aprendiendo a construir cosas con código**
 
